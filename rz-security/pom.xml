@@ -7,6 +7,6 @@
     <groupId>com.rz.security</groupId>
     <artifactId>rz-security</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <packaging>pom</packaging>
 
 </project>
